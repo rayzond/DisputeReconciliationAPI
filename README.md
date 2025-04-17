@@ -76,10 +76,6 @@ This service receives dispute records (CSV, XML, or JSON) from external provider
 - `POST /api/dispute/compare/file`: Upload a CSV, XML and download a `.txt` summary report.
 - `POST /api/dispute/compare/json`: Send a JSON array of disputes and download a `.txt` summary report.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
 ---
 
 *This project is provided under the MIT License.*
