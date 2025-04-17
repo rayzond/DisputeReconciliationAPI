@@ -1,0 +1,4 @@
+DisputeId,TransactionId,Amount,Currency,Status,Reason
+case_001,txn_001,100.00,USD,Open,Fraud
+case_002,txn_005,150.00,USD,Won,Product Not Received
+case_003,txn_006,75.00,USD,Open,Duplicate

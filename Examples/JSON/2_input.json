@@ -1,0 +1,27 @@
+[
+    {
+      "DisputeId": "case_001",
+      "TransactionId": "txn_001",
+      "Amount": 120.00,
+      "Currency": "USD",
+      "Status": "Open",
+      "Reason": "Fraud"
+    },
+    {
+      "DisputeId": "case_003",
+      "TransactionId": "txn_006",
+      "Amount": 75.00,
+      "Currency": "",
+      "Status": "Open",
+      "Reason": ""
+    },
+    {
+      "DisputeId": "case_005",
+      "TransactionId": "txn_008",
+      "Amount": 200.00,
+      "Currency": "EUR",
+      "Status": "Closed",
+      "Reason": "Completed"
+    }
+  ]
+  

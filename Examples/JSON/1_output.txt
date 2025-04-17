@@ -1,0 +1,6 @@
+===== AUDIT =====
+AUDIT: case_001 | txn_001 | 100.00 USD | Open
+AUDIT: case_002 | txn_005 | 150.00 USD | Lost
+
+===== ALERTS =====
+[case_002/txn_005] ✅ Already resolved

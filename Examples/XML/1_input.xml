@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disputes>
+  <Dispute>
+    <DisputeId>case_001</DisputeId>
+    <TransactionId>txn_001</TransactionId>
+    <Amount>100.00</Amount>
+    <Currency>USD</Currency>
+    <Status>Open</Status>
+    <Reason>Fraud</Reason>
+  </Dispute>
+  <Dispute>
+    <DisputeId>case_002</DisputeId>
+    <TransactionId>txn_005</TransactionId>
+    <Amount>150.00</Amount>
+    <Currency>USD</Currency>
+    <Status>Lost</Status>
+    <Reason>Product Not Received</Reason>
+  </Dispute>
+</Disputes>

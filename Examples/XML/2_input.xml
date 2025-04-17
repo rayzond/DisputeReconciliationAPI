@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disputes>
+  <Dispute>
+    <DisputeId>case_003</DisputeId>
+    <TransactionId>txn_006</TransactionId>
+    <Amount>75.00</Amount>
+    <!-- Currency missing, defaults to empty string -->
+    <Status>Open</Status>
+    <!-- Reason missing, defaults to empty string -->
+  </Dispute>
+  <Dispute>
+    <DisputeId>case_004</DisputeId>
+    <TransactionId>txn_007</TransactionId>
+    <Amount>90.00</Amount>
+    <Currency>USD</Currency>
+    <Status>Open</Status>
+    <Reason>Unauthorized</Reason>
+  </Dispute>
+</Disputes>

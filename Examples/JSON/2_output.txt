@@ -1,0 +1,9 @@
+===== AUDIT =====
+AUDIT: case_001 | txn_001 | 120.00 USD | Open
+AUDIT: case_003 | txn_006 | 75.00  | Open
+AUDIT: case_005 | txn_008 | 200.00 EUR | Closed
+
+===== ALERTS =====
+[case_001/txn_001] 💰 Amount mismatch: 100.00 vs 120.00 [MEDIUM]
+⚠️ **HIGH**: case_003/txn_006 not found
+⚠️ **HIGH**: case_005/txn_008 not found

@@ -1,0 +1,19 @@
+[
+    {
+      "DisputeId": "case_001",
+      "TransactionId": "txn_001",
+      "Amount": 100.00,
+      "Currency": "USD",
+      "Status": "Open",
+      "Reason": "Fraud"
+    },
+    {
+      "DisputeId": "case_002",
+      "TransactionId": "txn_005",
+      "Amount": 150.00,
+      "Currency": "USD",
+      "Status": "Lost",
+      "Reason": "Product Not Received"
+    }
+  ]
+  

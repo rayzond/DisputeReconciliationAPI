@@ -1,0 +1,6 @@
+===== AUDIT =====
+AUDIT: case_003 | txn_006 | 75.00  | Open
+AUDIT: case_004 | txn_007 | 90.00 USD | Open
+
+===== ALERTS =====
+⚠️ **HIGH**: case_003/txn_006 not found
